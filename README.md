@@ -1,0 +1,1 @@
+# nuget-directory-packages-props-example
